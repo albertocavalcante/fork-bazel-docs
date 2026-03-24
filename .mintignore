@@ -3,7 +3,6 @@
 
 # Reference docs — docs2mdx.py output with remaining MDX issues
 # "Could not parse expression with acorn" — bare {..} dict literals in prose
-reference/be/functions.mdx
 reference/command-line-reference.mdx
 # "<https://...> autolinks" — not valid MDX (use [text](url) instead)
 reference/be/protocol-buffer.mdx
